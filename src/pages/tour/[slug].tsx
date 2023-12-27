@@ -8,14 +8,6 @@ import { BsCheckLg } from "react-icons/bs"
 import { BiBus, BiSolidPlane, BiSolidLike, BiShareAlt, BiSolidStar } from "react-icons/bi"
 import { HiOutlineInformationCircle } from "react-icons/hi"
 
-
-import type { Metadata } from 'next'
-
-export const metadata: Metadata = {
-        title: 'cccccccc',
-        description: "vvvvvvvv"
-}
-
 const TourDetail = () => {
         const formatter = new Intl.NumberFormat('en-US', {
                 style: 'currency',

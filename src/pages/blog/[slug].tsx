@@ -1,10 +1,6 @@
 'use client'
 import Link from 'next/link';
-import { Button, Checkbox, Label, TextInput, Select } from 'flowbite-react';
-import { BsCalendarWeek, BsFacebook, BsTwitter } from "react-icons/bs"
-import { BsSearch } from "react-icons/bs"
-import { FaHotel } from "react-icons/fa"
-import { MdKeyboardArrowRight } from 'react-icons/md';
+import { BsFacebook, BsTwitter } from "react-icons/bs"
 const BlogDetail = () => {
         return (
                 <div className="container pt-12">
