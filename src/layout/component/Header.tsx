@@ -17,7 +17,7 @@ const Header = ({ path }: any) => {
                                                 <Navbar.Link href="#" active>
                                                         Trang chủ
                                                 </Navbar.Link>
-                                                <Navbar.Link as={Link} href="#">
+                                                <Navbar.Link as={Link} href="/about">
                                                         Về chúng tôi
                                                 </Navbar.Link>
                                                 <Navbar.Link href="#">Dịch vụ</Navbar.Link>
