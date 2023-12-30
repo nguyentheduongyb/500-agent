@@ -1,10 +1,8 @@
 'use client'
 import Link from 'next/link';
 
-import { usePathname } from 'next/navigation'
 
 import { FaStar } from "react-icons/fa"
-import { useState } from 'react';
 const Home = () => {
   return (
     <div>

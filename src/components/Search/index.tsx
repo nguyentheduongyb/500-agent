@@ -1,3 +1,4 @@
+'use client'
 import { TextInput } from 'flowbite-react';
 
 import { AiOutlineSearch } from 'react-icons/ai'
